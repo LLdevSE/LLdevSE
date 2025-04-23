@@ -10,10 +10,24 @@
 
 ---
 
+## 🎯 2025 Goals
+- Learn TypeScript
+- Complete a full-stack MERN project
+- Contribute to an open-source project
+- Start freelancing professionally
+  
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/LahiruLakshan) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lahirulakshan)
 
+
+
+## 🏅 Certifications
+- UI/UX Design (FSD Academy)
+- Responsive Web Design – freeCodeCamp
+  
 ---
 
 ## 💻 Tech Stack:
@@ -61,6 +75,9 @@ Here are some of my favorite and recent projects:
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LLdevSE&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LLdevSE&theme=algolia&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LLdevSE&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=LLdevSE&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LLdevSE&theme=gruvbox&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LLdevSE&theme=gruvbox&hide_border=true&layout=compact)
+
+---
