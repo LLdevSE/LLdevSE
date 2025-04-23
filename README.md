@@ -1,11 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently studying at ICBT<br>
-🌱 I’m currently learning React JS, Next JS, and more<br>
-👯 I’m looking to collaborate with clients<br>
-🤝 I’m open to group project opportunities<br>
-👨‍💻 All of my projects are available at: [github.com/LLdevSE](https://github.com/LLdevSE)<br>
-💬 Ask me about HTML, CSS, JavaScript, Figma, Adobe Photoshop<br>
-📫 Reach me at: lahirufirst1@gmail.com<br>
+🔭 I’m currently studying at ICBT - Cardiff Metropolitan University <br>
+🌱 I’m currently learning React JS, Next JS, and more <br>
+👯 I’m looking to collaborate with clients <br>
+🤝 I’m open to group project opportunities <br>
+👨‍💻 All of my projects are available at: [github.com/LLdevSE](https://github.com/LLdevSE) <br>
+💬 Ask me about HTML, CSS, JavaScript, Figma, Adobe Photoshop <br>
+📫 Reach me at: lahirufirst1@gmail.com <br>
 ⚡ Fun fact: I’m funny 😄
 
 ---
@@ -51,11 +51,16 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LLdevSE&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LLdevSE&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LLdevSE&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌟 My Projects:
+Here are some of my favorite and recent projects:
+
+- [My Prortfolio](https://lahirudev-portfolio.netlify.app/)
+- [Edu Free](https://edu-free.netlify.app/)
+
 ---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LLdevSE&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LLdevSE&theme=algolia&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LLdevSE&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
