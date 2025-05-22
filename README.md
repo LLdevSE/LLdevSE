@@ -78,6 +78,6 @@ Here are some of my favorite and recent projects:
 
 ![](https://github-readme-stats.vercel.app/api?username=LLdevSE&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LLdevSE&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LLdevSE&theme=tokyonight&hide_border=true&layout=compact)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lldevse&" alt="lldevse" /></p>
 
 ---
