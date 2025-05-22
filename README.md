@@ -76,8 +76,24 @@ Here are some of my favorite and recent projects:
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=LLdevSE&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<p>
+  &nbsp;
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=lldevse&show_icons=true&locale=en&theme=tokyonight" 
+       alt="lldevse" />
+</p>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LLdevSE&theme=tokyonight&hide_border=true)<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lldevse&" alt="lldevse" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LLdevSE&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=lldevse&label=Profile%20views&color=1f4068&style=flat" alt="lldevse" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lldevse&theme=tokyonight" alt="lldevse" />
+  </a>
+</p>
+
