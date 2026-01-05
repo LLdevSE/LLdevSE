@@ -1,99 +1,69 @@
-# 💫 About Me:
-🔭 I’m currently studying at ICBT - Cardiff Metropolitan University <br>
-🌱 I’m currently learning React JS, Next JS, and more <br>
-👯 I’m looking to collaborate with clients <br>
-🤝 I’m open to group project opportunities <br>
-👨‍💻 All of my projects are available at: [github.com/LLdevSE](https://github.com/LLdevSE) <br>
-💬 Ask me about HTML, CSS, JavaScript, Figma, Adobe Photoshop <br>
-📫 Reach me at: lahirufirst1@gmail.com <br>
-⚡ Fun fact: I’m funny 😄
+# 👋 Hi there, I'm Lahiru Lakshan
+### **Full-Stack Developer | UI/UX Designer | Creative Enthusiast**
+
+Currently pursuing my degree at **ICBT - Cardiff Metropolitan University**, I bridge the gap between aesthetic design and functional code. I specialize in building responsive, user-centric web applications and am currently deep-diving into the **React & Next.js** ecosystem.
 
 ---
 
-## 🎯 2025 Goals
-- Learn TypeScript
-- Complete a full-stack MERN project
-- Contribute to an open-source project
-- Start freelancing professionally
-  
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/lahiru.lakshan.5205622/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lahiru-lakshan-80016b235/)
-
-
-
-## 🏅 Certifications
-- UI/UX Design (FSD Academy)
-- Responsive Web Design – freeCodeCamp
-  
----
-
-## 💻 Tech Stack:
-
-### 🚀 Frontend & Styling
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-
-### ⚙️ Tools & Deployment
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 💾 Backend & Database
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-
-### 🎨 Design & Creative Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-### 🧠 Adobe Suite
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
-![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+### 🚀 At a Glance
+* 🔭 **Current Focus:** Mastering **React JS** and **Next.js** for high-performance web apps.
+* 👯 **Collaboration:** Open to freelance opportunities and professional client projects.
+* 🤝 **Networking:** Excited to join group projects and open-source initiatives.
+* 💬 **Ask Me About:** Frontend architecture, JavaScript, and the Adobe Creative Suite.
+* ⚡ **Fun Fact:** I believe a good laugh is the best way to debug a complex problem!
 
 ---
 
-## 🌟 My Projects:
-Here are some of my favorite and recent projects:
-
-- [My Prortfolio](https://lahirudev-portfolio.netlify.app/)
-- [Edu Free](https://edu-free.netlify.app/)
+### 🎯 2026 Professional Milestones
+- [ ] **TypeScript Mastery:** Moving from JavaScript to Type-safe development.
+- [ ] **MERN Stack Excellence:** Deploying a complex, production-ready full-stack application.
+- [ ] **Open Source:** Contributing meaningful code to the developer community.
+- [ ] **Freelance Growth:** Establishing a professional presence on platforms like Upwork/Fiverr.
 
 ---
 
-## 📊 GitHub Stats:
+### 🛠️ Professional Skill Matrix
 
-<p>
-  &nbsp;
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=lldevse&show_icons=true&locale=en&theme=tokyonight" 
-       alt="lldevse" />
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Core Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) |
+| **Styling & UI** | ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white) ![DaisyUI](https://img.shields.io/badge/-DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| **Backend & DB** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Creative Design** | ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white) ![InDesign](https://img.shields.io/badge/-InDesign-49021F?style=flat-square&logo=adobeindesign&logoColor=white) ![Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white) |
+| **Video & Motion** | ![Premiere](https://img.shields.io/badge/-Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white) ![After_Effects](https://img.shields.io/badge/-After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white) |
+
+---
+
+### 🌟 Featured Projects
+
+* 🚀 **[Urban Edge](https://urban-edge-pi.vercel.app/)**
+    * *A high-performance e-commerce concept focusing on minimalist UI and seamless user experience. Developed using React and Tailwind CSS to ensure full responsiveness and modern design standards.*
+* 🏠 **[Siripa Sewana](https://siripa-sewana-eight.vercel.app/)**
+    * *A community-focused web platform designed to streamline local interactions and information sharing. Built with a focus on clean navigation and accessible design for diverse user groups.*
+* 🎓 **[Edu Free](https://edu-free.netlify.app/)**
+    * *An open-learning initiative aimed at providing structured educational resources. I handled the frontend architecture to make learning content easily discoverable and mobile-friendly.*
+* 🎨 **[Personal Portfolio](https://lahirudev-portfolio.netlify.app/)**
+    * *My digital resume and playground for experimental design. It showcases my dual passion for full-stack engineering and professional graphic design through interactive elements.*
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lldevse&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LLdevSE&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=LLdevSE&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LLdevSE&theme=tokyonight&hide_border=true&layout=compact)
+<!-- <p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LLdevSE&theme=tokyonight&area=true&hide_border=true" />
+</p> -->
 
 ---
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lldevse&label=Profile%20views&color=1f4068&style=flat" alt="lldevse" />
-</p>
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lahiru-lakshan-80016b235/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/lahiru.lakshan.5205622/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lahirufirst1@gmail.com)
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lldevse&theme=tokyonight" alt="lldevse" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=lldevse&label=Profile%20views&color=1f4068&style=flat-square" alt="lldevse" />
 </p>
-
