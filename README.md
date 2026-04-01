@@ -48,12 +48,7 @@ With a strong focus on the **MERN Stack** and modern UI/UX methodologies, I buil
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LLdevSE&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-frame=true&no-bg=true" alt="LLdevSE Trophies" />
-  </a>
-</p>
+
 
 ### 📊 GitHub Analytics
 
